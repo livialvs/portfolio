@@ -316,8 +316,9 @@
 <h5>Ou acesse diretamente nossa documentação <a href="https://github.com/Equipe-CodeLand/API-2024.1/wiki">aqui!</a></h5>
 </div>
 </div>
+
+<br>
+
+> Livia Alves de Faria - 3°SEM/DSM
 >
->Nome: Livia Alves de Faria
->
->Curso: Desenvolvimento de Software Multiplataforma 
->
+> Desenvolvimento Web III
