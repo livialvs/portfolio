@@ -319,6 +319,6 @@
 
 <br>
 
-> Livia Alves de Faria - 3°SEM/DSM
+> Livia Alves de Faria 
 >
-> Desenvolvimento Web III
+> Desenvolvimento de Software Multiplataforma
