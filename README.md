@@ -312,7 +312,7 @@
     </tr>
   </table>
 
-<h4>Para saber mais sobre o projeto, <a href="https://github.com/Equipe-CodeLand/API-2023.2">acesse aqui!</a></h4>
+<h4>Para saber mais sobre o projeto, <a href="https://github.com/Equipe-CodeLand/API-2024.1">acesse aqui!</a></h4>
 <h5>Ou acesse diretamente nossa documentação <a href="https://github.com/Equipe-CodeLand/API-2024.1/wiki">aqui!</a></h5>
 </div>
 </div>
