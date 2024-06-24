@@ -252,7 +252,7 @@
 
 <h3>Aprendizados efetivos</h3>
 
-<p>No projeto desse semestre, tive a oportunidade de aprender e desenvolver um <em>Back-End</em> básico em <em>Java</em>, além de aprender a usar o <em>Raect</em> de forma mais condizente e correta. Além de, novamente, aprender melhor a trabalhar em equipe.</p>
+<p>No projeto desse semestre, tive a oportunidade de aprender e desenvolver um <em>Back-End</em> básico em <em>Java</em>, além de aprender a usar o <em>React</em> de forma mais condizente e correta. Além de, novamente, aprender melhor a trabalhar em equipe.</p>
 
 <h3>Hard Skils</h3>
 
